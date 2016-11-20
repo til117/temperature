@@ -11,6 +11,8 @@ Different simulations are implemented, and in each one of them the parameters ar
 
 A cost model is also provided in one of the files.
 
+Details can be found in the pdf file "Details of the simulation".
+
 # Model.m
 
 Estimates the parameters of the system, according to the thermodynamic model described in the pdf file "Details of the simulation".
